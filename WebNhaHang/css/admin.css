@@ -1,0 +1,32 @@
+.login-btn {
+    background-color: #FF9494;
+    color: white;
+    font-weight: 600;
+    padding: 10px;
+    width: 100%;
+    border-radius: 12px;
+    border: none;
+}
+
+.login-btn:hover {
+    background-color: #FFD1D1;
+}
+
+.bg-gradient-custom {
+    background: linear-gradient(to right, #005AA7, #FFFDE4);
+}
+
+.bg-gradient-custom1 {
+    background: linear-gradient(to right, #000046, #1CB5E0);
+}
+
+.bg-gradient-custom2 {
+    background: linear-gradient(to right, #aa4b6b, #6b6b83, #3b8d99);
+}
+
+.bg-glass {
+    background: rgba(255, 255, 255, 0.25); /* transparent */
+    backdrop-filter: blur(12px);           /* blur effect */
+    -webkit-backdrop-filter: blur(12px);   /* safari support */
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
